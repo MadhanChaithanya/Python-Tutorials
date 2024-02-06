@@ -1,0 +1,64 @@
+HistoryofPython
+=>ThePythonprogrammingLanguagefoundationstonehaslaidintheyear1980
+=>ThePythonprogrammingLanguagedevelopmentstartedintheyear1989
+=>ThePythonprogrammingLanguageofficiallyreleasedintheyear1991Feb
+=>ThePythonprogrammingLanguageDevelopedby"GuidoVanRossum"
+=>ThePythonprogrammingLanguagedevelopedCWIinNetherlands.
+=>ThePythonprogrammingLanguagemaintainedbynon-commericalOrganization
+PythonSoftwareFoundation(PSF).
+VersionsofPython
+=>PythonProgrammingContains3TypesofVersions.
+a)Python1.x
+b)Python2.x,here xrepresents01234567
+c)Python3.xherexrepresents012345678910 11 12
+=>Python3.xdoesnotcontainbackwardCompatabilitywithPython2.x
+DownloadingProcessofPython
+Wecandownloadthepythonsoftwarefrom www.python.org
+PythonProgrammingInspiredFrom
+=>FunctionalProgrammingFrom C
+=>ObjectOrientedProgrammingFrom CPP
+=>Modularprogrammingfrom Modulo3
+=>ScriptingProgrammingfrom PERL
+RealTimeApplicationsdevelopedbyusingPYTHON
+=PythonProgrammingcanbein23differentarea/applications.
+1)WebApplicationDevelopment(Django,flask,pyramid...etc)
+2)GamingApplicationdevelopment
+3)ArtificialInteligence(MachinelearningandDeepLearning
+Applications)
+4)DesktopGUIApplications.
+5)ImageProcessingBasedApplications
+6)TextprocessingBasedApplications.
+7)BusinessBasedApplications
+8)EducationSector
+9)AudioandVideobasedApplications
+10)WebScrapping/HarvestingApplication
+11)DataVisualization.
+12)ScientificandNumericalApplications
+13)Softwaredevelopment
+14)OperatingSystem development
+15)CADandCAMbasedApplications
+16)EmbeddedSystem
+17)ConsoleBasedApplications.
+18)ComputerVision.
+19)Languagedevelopment.
+20)Automationintesting
+21)DataAnalysisandDataAnalayatics
+22)DevelopmentofIOT
+23)EnterpriseApplications
+FeaturesofPython
+=>FeaturesofalanguagearenothingbutServices/FacilitiesProvidedbyLanguage
+Developersandthosefeaturesusedbyrealtimeprogrammersfordevelopingreal
+timeapplications.
+=>PythonProgrammingProvides11Features.Theyare
+1.Simple
+2.FreewareandOpenSource
+3.Platform Independent
+4.DynamicallyTyped
+5.Interpreted
+6.HighLevel
+7.Extensible
+8.Embedded
+9.BothProcedural(Functional)andobjectorientedProglang.
+10.Robust(Strong)
+11.ExtensiveSupportsforThirdPartyAPIS(Numpy,Pandas,Scipy,Scikit,
+matpoltlib...etc)
